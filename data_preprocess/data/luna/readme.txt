@@ -1,0 +1,1 @@
+Place MHD files in luna16 （includes 10 subsets）in this folder. 
